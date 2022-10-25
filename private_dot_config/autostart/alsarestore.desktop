@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=alsarestore
+GenericName=alsa restore
+Comment=Restores alsamixer settings a bootup
+Exec=/home/vijay/.config/autostart/files/alsa_autorestore.sh
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
