@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Nobara Package Manager Update Checker
+Type=Application
+Exec=yumex-dnf-updatechecker
+Terminal=false
+Icon=yumex
+Comment=Autostart yumex-dnf-updatechecker script
+NoDisplay=false
+Categories=Utility;
